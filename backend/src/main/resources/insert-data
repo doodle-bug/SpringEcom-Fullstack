@@ -1,0 +1,20 @@
+INSERT INTO product (name, description, brand, price, category, release_date, product_available, stock_quantity) VALUES
+('iPhone 15', 'Latest Apple smartphone with A16 chip', 'Apple', 79999.00, 'Electronics', '2023-09-22', true, 50),
+
+('Galaxy S24', 'Flagship Samsung phone with AI features', 'Samsung', 74999.00, 'Electronics', '2024-01-18', true, 40),
+
+('MacBook Air M2', 'Lightweight laptop with M2 chip', 'Apple', 114999.00, 'Electronics', '2023-06-10', true, 25),
+
+('Sony WH-1000XM5', 'Noise cancelling wireless headphones', 'Sony', 29999.00, 'Accessories', '2023-03-15', true, 60),
+
+('Boat Rockerz 450', 'Affordable wireless headphones', 'Boat', 1499.00, 'Accessories', '2022-11-05', true, 150),
+
+('Nike Air Max', 'Comfortable running shoes', 'Nike', 8999.00, 'Fashion', '2023-07-01', true, 80),
+
+('Adidas Hoodie', 'Casual wear hoodie for men', 'Adidas', 3999.00, 'Fashion', '2023-08-12', true, 70),
+
+('Dell XPS 13', 'Premium ultrabook with Intel i7', 'Dell', 129999.00, 'Electronics', '2023-05-20', true, 20),
+
+('HP Pavilion Gaming', 'Gaming laptop with RTX graphics', 'HP', 85999.00, 'Electronics', '2023-04-18', false, 0),
+
+('Mi Smart TV 55', '4K UHD Smart TV with Dolby Vision', 'Xiaomi', 49999.00, 'Electronics', '2023-02-25', true, 35);

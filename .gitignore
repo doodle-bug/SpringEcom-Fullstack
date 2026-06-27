@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Spring Boot (backend)
+backend/target/
+backend/HELP.md
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# React / Vite (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
